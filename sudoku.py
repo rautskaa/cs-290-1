@@ -1,9 +1,3 @@
-# Course: CS325 - Analysis of Algorithms
-# Student Name: Aksana Rautskaya
-# Assignment: Portfolio project
-# Description: Implements sudoku puzzle: the game and verification. It supports the following features: user can play
-# the sudoku game and then user's solution can be verified on correctness.
-
 class Sudoku:
 
     def __init__(self):
