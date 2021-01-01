@@ -1,1 +1,24 @@
 Hi there!
+Here are popular git commands mentioned in the Wikipedia: 
+git pull
+fetches remote changes into the local clone, and merges them into the current working files.
+git checkout
+replaces the current working files with files from a branch.
+git checkout --track
+creates a local branch from a remote branch, links them, and replaces the current working files with files from that branch.
+git fetch
+downloads changes from a remote repository into the local clone
+git reset
+makes the current branch point to some specific revision or branch.
+git reset --hard
+makes the current branch point to some specific revision or branch, and replaces the current working files with the files from that branch.
+git merge
+merges files from a given branch into the current branch.
+git push
+uploads changes from local branches to the respective remote repositories.
+git add
+puts current working files into the stage (aka index or cache)
+git commit
+commits staged changes to a local branch
+git commit -a
+commits all modified files to a local branch (shorthand for "git add" and "git commit")
